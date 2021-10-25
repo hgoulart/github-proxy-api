@@ -27,7 +27,9 @@ This endpoint must return a list with all user repositories
 port 5500 or from process.env.PORT
 
 http://localhost:5000/api/users?since=1&per_page=5
+
 http://localhost:5000/api/users/defunkt/details
+
 http://localhost:5000/api/users/defunkt/repos
 
 handling error
